@@ -1,5 +1,5 @@
 <div style="width: 100%; height: 80px; position: relative; overflow: hidden; display: flex; justify-content: center; align-items: center; background: transparent;">
-  <div class="twinkling-text">✨ ⭐ 🌙 I am good enough, I can do this. 🌙 ⭐ ✨</div>
+  <div class="twinkling-text">⋆｡°✩ ⋆｡°✩ I am good enough, I can do this. ⋆｡°✩ ⋆｡°✩</div>
 </div>
 
 <style>
@@ -13,7 +13,7 @@
   }
 
   @keyframes twinkle-text {
-    0% { opacity: 0.6; }
+    0% { opacity: 0.5; }
     100% { opacity: 1; }
   }
 </style>
